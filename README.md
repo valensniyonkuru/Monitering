@@ -13,3 +13,8 @@ porometheus instration
 alertmanager configuration
 --------------------------
 <img width="1917" height="955" alt="image" src="https://github.com/user-attachments/assets/2cb26718-7da1-4662-820f-34a5a4fa7e65" />
+
+Grafana configuration
+---------------------
+<img width="1918" height="991" alt="image" src="https://github.com/user-attachments/assets/dfed8b32-4252-4591-bde2-7e91d514628d" />
+
