@@ -9,6 +9,6 @@
 porometheus instration
 ----------------------
 <img width="1918" height="858" alt="image" src="https://github.com/user-attachments/assets/b9a1658f-b4e5-4844-be72-369b6906fe9a" />
-altering
----------
+alertmanager configuration
+-------------------------
 <img width="1917" height="955" alt="image" src="https://github.com/user-attachments/assets/2cb26718-7da1-4662-820f-34a5a4fa7e65" />
