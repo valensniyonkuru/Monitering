@@ -120,4 +120,4 @@ The `custom_kube_prometheus_stack.yml` file applies critical Alertmanager settin
 
 ---
 
-*Built with ❤️ using AWS EKS, Prometheus, Alertmanager & Grafana.*
+*Built with using AWS EKS, Prometheus, Alertmanager & Grafana.*
